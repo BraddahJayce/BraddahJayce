@@ -1,4 +1,4 @@
-## Hi there 👋
+Howzit going I am Jayce 👋
 
 <!--
 **BraddahJayce/BraddahJayce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
